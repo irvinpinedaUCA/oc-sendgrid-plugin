@@ -22,4 +22,4 @@ Latest October CMS version.
 4. Add your Sendgrid API Key and save.
 5. Start with sending your first email.
 
-![image](https://raw.githubusercontent.com/panakour/sendgrid/master/docs/images/sendgrid_settings.png)
+![image](https://raw.githubusercontent.com/panakour/oc-sendgrid-plugin/master/docs/images/sendgrid_settings.png)
