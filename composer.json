@@ -1,0 +1,24 @@
+{
+    "name": "panakour/oc-sendgrid-plugin",
+    "description": "SendGrid Mail Driver for OctoberCMS",
+    "type": "october-plugin",
+    "homepage": "https://github.com/panakour/oc-sendgrid-plugin",
+    "keywords": [
+        "october",
+        "octobercms",
+        "plugin",
+        "cms",
+        "sendgrid"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Panagiots Koursaris",
+            "email": "panakourweb@gmail.com"
+        }
+    ],
+    "require": {
+        "sendgrid/sendgrid": "^7.0",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
